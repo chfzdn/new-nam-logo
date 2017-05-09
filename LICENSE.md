@@ -1,0 +1,1 @@
+This logo is licensed under a [Creative Commons 4.0 Non-Commercial International](https://creativecommons.org/licenses/by-nc/4.0/) license. 
