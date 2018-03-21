@@ -1,5 +1,5 @@
 # The New NAM Logo
-This is the new NAM logo repo. Here you can download the docs, raw files, and final files here.
+This is the new NAM logo repo. Here you can download the documents, raw files, and final files here.
 
 # License
 This logo is licensed under Creative Commons 4.0 Non-Commercial International. Read __LICENSE.md__ for more information.
